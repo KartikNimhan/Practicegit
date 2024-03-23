@@ -3,3 +3,10 @@ def addition(a,b):
 
 def substraction(a,b):
     return a-b
+
+def division(a,b):
+    return a/b
+
+
+def multi(a,b):
+    return a*b
